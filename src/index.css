@@ -1,0 +1,11 @@
+body {
+    background-image: url("./assets/img/universe.jpg");
+    background-size: 'cover';
+    background-position: 'center';
+    height: 100vh;
+}
+
+.logo-top {
+    height: 80px;
+}
+
